@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">floatbubble</string>
+    <string name="float_overlay_permission_prompt">视频小窗需要开启浮窗权限，点击"确定"前往开启</string>
+    <string name="start">确定</string>
+    <string name="cancel">取消</string>
+    <string name="request_float_permission_title">浮窗权限提示</string>
+    <string name="never_show_again">不再提醒</string>
+</resources>

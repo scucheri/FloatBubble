@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">FloatBubbleApplication</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string-array name="gravities">
+        <item>LEFT_TOP</item>
+        <item>RIGHT_TOP</item>
+        <item>LEFT_BOTTOM</item>
+        <item>RIGHT_BOTTOM</item>
+        <item>CENTER</item>
+        <item>CENTER_TOP</item>
+        <item>CENTER_BOTTOM</item>
+        <item>CENTER_LEFT</item>
+        <item>CENTER_RIGHT</item>
+    </string-array>
+
+    <string-array name="layers">
+        <item>ACTIVITY_LAYER</item>
+        <item>APPLICATION_LAYER</item>
+    </string-array>
+
+
+    <string-array name="drag_modes">
+        <item>FREE_DRAGGABLE</item>
+        <item>HORIAONTAL_DRAGGABLE</item>
+        <item>VERTICAL_DRAGGABLE</item>
+        <item>NON_DRAGGABLE</item>
+    </string-array>
+
+    <string-array name="animations">
+        <item>NO_ANIMATION</item>
+        <item>APPEAL_LEFT_OR_RIGHT</item>
+    </string-array>
+</resources>
